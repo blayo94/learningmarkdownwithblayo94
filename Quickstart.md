@@ -1,6 +1,6 @@
 # Quickstart
 
-#Welcome to my Quickstart guide
+Welcome to my Quickstart guide
 
 ### The History of SAU
 
